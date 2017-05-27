@@ -1,7 +1,8 @@
 ---
-title: Ullamco Laboris minim veniam
-featured: /assets/images/pic03.jpg
+title: Entry 1
+featured: "/assets/images/pic03.jpg"
 layout: post
+date: '2014-08-31T00:00:00.000+00:00'
 ---
 
 <p>Ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat..</p>
