@@ -1,7 +1,7 @@
 ---
 title: Entry 3
 featured: "/assets/images/pic02.jpg"
-layout: post
+layout: Left Sidebar
 date: '2014-08-20T00:00:00.000+00:00'
 ---
 
